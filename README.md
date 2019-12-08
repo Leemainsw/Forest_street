@@ -3,7 +3,7 @@ kwc참가 목적으로 만든 android 게임입니다
 
 <hr> 
 
-#### 2. 게임 아이콘
+#### 1. 게임 아이콘
 <image width="100" height="100" src="https://user-images.githubusercontent.com/48716775/70390578-81a30e80-1a0f-11ea-8d40-1e24022af98b.png">
 
 #### 2. 게임 인터페이스
