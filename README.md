@@ -1,5 +1,5 @@
 # Forest_street :four_leaf_clover:
-kwc참가 목적으로 만든 android 게임입니다
+kwc참가 목적으로 만든 android 게임
 
 <hr> 
 
