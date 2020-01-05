@@ -27,8 +27,6 @@ kwc참가 목적으로 만든 유니티엔진 기반 안드로이드 게임
   
 (6) 게임엔딩
 
-6-1 성공엔딩
-<image src="https://user-images.githubusercontent.com/48716775/70390851-48b86900-1a12-11ea-9dae-6557952a0264.PNG">
+<image src="https://user-images.githubusercontent.com/48716775/70390851-48b86900-1a12-11ea-9dae-6557952a0264.PNG" style="width:200px; height:100px;">
   
-6-2 실패엔딩
-<image src="https://user-images.githubusercontent.com/48716775/70390852-48b86900-1a12-11ea-9b35-a266dc48313b.PNG">
+<image src="https://user-images.githubusercontent.com/48716775/70390852-48b86900-1a12-11ea-9b35-a266dc48313b.PNG"style="width:200px; height:100px;">
